@@ -15,19 +15,9 @@
 --> 
  
 	<title>Framework One - The Blog</title> 
-		
-	<meta name="generator" content="WordPress 3.0"> <!-- leave this for stats please --> 
- 
 	<link rel="stylesheet" href="./Yoghourt/style.css" type="text/css" media="screen"> 
 	<link rel="stylesheet" id="contact-form-7-css" href="./Yoghourt/styles.css" type="text/css" media="all"> 
 	<script type="text/javascript" src="./Yoghourt/jquery.js"></script> 
-	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/wp_yoghourt/xmlrpc.php?rsd"> 
-	<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp_yoghourt/wp-includes/wlwmanifest.xml"> 
-	<link rel="index" title="Yoghourt &ndash; Free Wordpress Theme" href="/wp_yoghourt"> 
-<meta name="generator" content="WordPress 3.0"> 
- 
- 
-    <link rel="shortcut icon" href="/wp_yoghourt/wp-content/themes/wp_yoghourt/favicon.ico"> 
 </head> 
 <body> 
     <div id="container"> 
@@ -38,15 +28,11 @@
 <ul> 
 	<li id="sb_top"> 
 		<div class="sb_logo"> 
-	    	<a href="/wp_yoghourt/index.htm" title="Yoghourt &ndash; Free Wordpress Theme"> 
+	    	<a href="index.cfm" title="FW/1 Blog"> 
 	        <!-- The logo - Change it to be your own --> 
 	        <img src="./Yoghourt/logo.jpg" alt="Home"> 
-	        <!-- ...or you can remove the logo and add the line below --> 
-	        <!-- <a href="/wp_yoghourt/index.htm" title="Yoghourt &#8211; Free Wordpress Theme">Yoghourt &#8211; Free Wordpress Theme</a>  --> 
- 
-	        <!-- ... and now the slogan: --> 
 	        <br> 
-	        Just another WordPress weblog	        </a> 
+	        Just another FW/1 weblog</a> 
 	    </div> 
 	</li> 
  
@@ -60,21 +46,12 @@
 	    </ul> 
     </li> 
  
-   
- 
 <!-- Start Widget-ready --> 
  
     <!-- Author --> 
     <li class="widget"><h2>Author</h2> 
 		Mark Drew! YAY!
 	</li> 
- 
-   
-
- 
- 
- 
-	
  
     <!-- Copyrights --> 
 	<li class="copyright"> 
@@ -106,20 +83,7 @@
  
                 <!-- Start main Content --> 
  				<cfoutput>#body#</cfoutput>
-            
- 
-            	
-               
- 
-            	
-                
- 
- 
-            	
-               
- 
- 
- 
+	
             </div> <!-- /content --> 
  
             <div id="footer"> 
@@ -141,10 +105,5 @@
     </div> <!-- /container --> 
  
     <script type="text/javascript" src="./Yoghourt/jquery.form.js"></script> 
-<script type="text/javascript" src="./Yoghourt/scripts.js"></script> 
- 
-
- 
- 
- 
+	<script type="text/javascript" src="./Yoghourt/scripts.js"></script> 
  </body></html>
