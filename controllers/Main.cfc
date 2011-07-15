@@ -1,7 +1,7 @@
 component {
 	
 	function default(rc){
-		rc.posts = EntityLoad("Post");
+		rc.posts = EntityLoad("Post", {}, "entrydate DESC");
 	}
 	
 }

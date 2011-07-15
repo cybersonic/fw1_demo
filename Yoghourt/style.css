@@ -512,7 +512,7 @@ table tr td {padding: 2px;}
   clear: both;
   text-align: center;
   font-size: 14px;
-  color: white;
+ /* color: white; */
   font-weight: bold;
   margin-bottom: 0;
 }
