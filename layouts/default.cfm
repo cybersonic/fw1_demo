@@ -43,6 +43,7 @@
 	    	<li class="page_item page-item-4"><a href="index.cfm?action=about" title="About">About</a></li> 
 			<li class="page_item page-item-5"><a href="index.cfm?action=portfolio" title="Portfolio">Portfolio</a></li> 
 			<li class="page_item page-item-5"><a href="index.cfm?action=contact" title="Contact">Contact</a></li> 
+			<li class="page_item page-item-6"><a href="index.cfm?action=post.add" title="Add Post">Add Post</a></li> 
 	    </ul> 
     </li> 
  
