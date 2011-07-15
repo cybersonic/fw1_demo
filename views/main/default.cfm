@@ -1,1 +1,1 @@
-<h1>Default View</h1>
+<h2>Default View</h2>
