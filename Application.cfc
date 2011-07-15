@@ -7,5 +7,10 @@ component extends="org.corfield.framework" {
 		dbcreate="dropcreate", cfclocation="model", autorebuild="true"
 	};
 	
+	//All the settings for the framework
+	variables.framework = {
+		reload = 'reload',
+		password = 'true'
+	};
 	
 }
